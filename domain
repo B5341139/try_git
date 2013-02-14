@@ -1,0 +1,12 @@
+
+package team01
+
+class Register {
+  String name
+	String lastname
+	String age
+	
+	
+    static constraints = {
+    }
+}
